@@ -1,0 +1,1 @@
+psp2run /console:all /log:"orig.log" /fsroot . /elf "orig.self"
